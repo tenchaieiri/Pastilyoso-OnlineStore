@@ -1,2 +1,2 @@
-# Pastilyoso-OnlineStore
+# My Online Store
 Online Store
